@@ -1,5 +1,4 @@
 # Bakalárska práca
-
 Názov: Cesta do pravopisu – edukačný softvér pre I. stupeň zš
 Študent: Konrád Müller
 Školiteľ: RNDr. Marek Nagy, PhD.
