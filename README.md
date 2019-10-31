@@ -1,1 +1,2 @@
-# bc-website
+# Bakalárska práca
+# Cesta do pravopisu
