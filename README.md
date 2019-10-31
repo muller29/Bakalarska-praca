@@ -1,1 +1,1 @@
-Bakalárska práca - Cesta do pravopisu
+Bakalárska práca
