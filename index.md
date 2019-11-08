@@ -15,7 +15,6 @@ Pri generovaní hernej situácie bude potrebné zohľadniť existenciu a nároč
 
 ## Časový plán:
  - do 31.10.2019 - Vytvoriť webovú stránku bakalárskej práce s názvom bakalárskej práce, cieľom, anotáciou.
- - do 12.11.2019 - Vymyslieť si časový plán.
  - do 26.11.2019 - Zbieranie zdrojov.
  - do 12.01.2020 - Východisková kapitola už hotová (min. 10 strán) a prvý prototyp.
  - do 12.04.2020 - Dokončiť bakalársku prácu.
