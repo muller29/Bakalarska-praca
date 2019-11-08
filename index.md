@@ -14,10 +14,10 @@ Aplikácia bude žiakom predkladať slová, ktoré rozloží na písmená do hra
 Pri generovaní hernej situácie bude potrebné zohľadniť existenciu a náročnosť riešenia.
 
 ## Časový plán:
- - [X] 31.10.2019 - Vytvoriť webovú stránku bakalárskej práce s názvom bakalárskej práce, cieľom, anotáciou.
- - [X] 12.11.2019 - Vymyslieť si časový plán.
- - [X] 26.11.2019 - Zbieranie zdrojov.
- - [ ] 12.01.2020 - Východisková kapitola už hotová (min. 10 strán) a prvý prototyp.
- - [ ] 12.04.2020 - Dokončiť bakalársku prácu.
- - [ ] 26.04.2020 - Otestovať v nejakej ZŠ.
- - [ ] 10.05.2020 - Malé úpravy, podľa spätnej väzby.
+ - 31.10.2019 - Vytvoriť webovú stránku bakalárskej práce s názvom bakalárskej práce, cieľom, anotáciou.
+ - 12.11.2019 - Vymyslieť si časový plán.
+ - 26.11.2019 - Zbieranie zdrojov.
+ - 12.01.2020 - Východisková kapitola už hotová (min. 10 strán) a prvý prototyp.
+ - 12.04.2020 - Dokončiť bakalársku prácu.
+ - 26.04.2020 - Otestovať v nejakej ZŠ.
+ - 10.05.2020 - Malé úpravy, podľa spätnej väzby.
