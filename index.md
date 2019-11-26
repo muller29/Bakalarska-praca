@@ -31,3 +31,10 @@ Pri generovaní hernej situácie bude potrebné zohľadniť existenciu a nároč
 3. Manuály, učebnice, tutorialy
    - javascript
      - [tutorialsteacher](https://www.tutorialsteacher.com/javascript/javascript-tutorials)
+     - [javascript.info](https://javascript.info/)
+     - [w3schools](https://www.w3schools.com/js/)
+   - nodejs
+     - [w3schools](https://www.w3schools.com/nodejs/)
+     - [tutorialsprint](https://www.tutorialspoint.com/nodejs/)
+     - [tutorialsteacher](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
+     
