@@ -20,3 +20,7 @@ Pri generovaní hernej situácie bude potrebné zohľadniť existenciu a nároč
  - do 12.04.2020 - Dokončiť bakalársku prácu.
  - do 26.04.2020 - Otestovať v nejakej ZŠ.
  - do 10.05.2020 - Malé úpravy, podľa spätnej väzby.
+
+## Zdroje:
+1. Podobné staršie bakalárske práce
+   - [Robot Karel Máté Tibor Krajczár] (http://alis.uniba.sk:8088/lib/item?id=chamo:676040&fromLocationLink=false&theme=Katalog)
