@@ -24,3 +24,10 @@ Pri generovaní hernej situácie bude potrebné zohľadniť existenciu a nároč
 ## Zdroje:
 1. Podobné staršie bakalárske práce
    - [Robot Karel Máté Tibor Krajczár](http://alis.uniba.sk:8088/lib/item?id=chamo:676040&fromLocationLink=false&theme=Katalog)
+   - [Edukačný softvér pre výučbu programovania na 1. stupni ZŠ Gabriel Halasi](http://alis.uniba.sk:8088/lib/item?id=chamo:675922&fromLocationLink=false&theme=Katalog)
+2. Východiskové odborné práce
+   - [Plumber Game](https://www.mathsisfun.com/games/plumber-game.html)
+   - [7spell](https://www.7spell.com/)
+3. Manuály, učebnice, tutorialy
+   - javascript
+     - [tutorialsteacher](https://www.tutorialsteacher.com/javascript/javascript-tutorials)
