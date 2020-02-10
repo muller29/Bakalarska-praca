@@ -39,5 +39,5 @@ Pri generovaní hernej situácie bude potrebné zohľadniť existenciu a nároč
      - [tutorialsteacher](https://www.tutorialsteacher.com/nodejs/nodejs-tutorials)
      
 ## Súbory na stiahnutie:
-- [bakalárska práca](bakalarska_praca_Konrad_Muller.pdf) ako pdf
+- [bakalárska práca](https://raw.githubusercontent.com/muller29/Bakalarska-praca/master/bakalarska_praca_Konrad_Muller.pdf) ako pdf
 - [protyp](https://github.com/muller29/Bakalarska-praca/blob/master/prototyp.zip) vo formáte .zip
