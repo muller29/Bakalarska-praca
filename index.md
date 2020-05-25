@@ -41,3 +41,4 @@ Pri generovaní hernej situácie bude potrebné zohľadniť existenciu a nároč
 ## Súbory na stiahnutie:
 - [bakalárska práca](https://raw.githubusercontent.com/muller29/Bakalarska-praca/master/bakalarska_praca_Konrad_Muller.pdf) ako pdf
 - [protyp](https://raw.githubusercontent.com/muller29/Bakalarska-praca/master/prototyp.zip) vo formáte .zip
+- [aplikácia](https://github.com/muller29/Bakalarska-praca/blob/master/bakalarska_praca.zip) vo formáte .zip
